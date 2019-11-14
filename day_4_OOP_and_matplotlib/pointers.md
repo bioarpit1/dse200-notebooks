@@ -10,6 +10,17 @@ Argparse is a module for defining and documenting command line parameters.
 
 Argparse Tutorial: http://zetcode.com/python/argparse/
 
+### Machine learning notebook collections
+
+* Very popular:
+https://scikit-learn.org/stable/
+
+* solid, but covers only basics:
+https://sebastianraschka.com/notebooks/python-notebooks.html
+
+* Seems like a good overview
+https://github.com/justmarkham/scikit-learn-videos
+
 ### WordVec
 
 To install gensim use:
