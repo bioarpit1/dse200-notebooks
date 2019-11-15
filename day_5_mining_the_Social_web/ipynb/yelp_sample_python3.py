@@ -47,6 +47,14 @@ except ImportError:
 # https://www.yelp.com/developers/v3/manage_app
 API_KEY= 'PTzdFyfhMUNcSSKt-pM7k032wWbUFt5kofFVBtDZj3eE3lpe2ulJbJkaJ0wVzs8fdyney-4rgUw0KBcuw_iFnpvkZMFvjJYEsIjJPjp4kdXoYZEHi9W78oCkXoTNXXYx' 
 
+# Generate Yelp API Key
+# The Yelp Fusion API uses private key authentication to authenticate all endpoints. You have create an app on Yelp to generate your private API Key.
+
+# 1. Sign up at: https://www.yelp.com/signup
+# 2. Go to the “Manage App” tab and then click “Create App”. Fill in the form and click “Create New App”.
+# 3. You can see the API Key you need has been automatically generated.
+
+
 
 # API constants, you shouldn't have to change these.
 API_HOST = 'https://api.yelp.com'
